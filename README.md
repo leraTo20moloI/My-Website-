@@ -7,4 +7,4 @@ This is my website that showcases the skills i have learned so far.It features a
 How to use my website?
 To use my website simply navigate to the different pages using the navigation menu.
 Contact
-If you have any questions or want to assist correct mistakes please dont hesitate to contact me: Email:lerato@gmail.com
+If you have any questions or want to assist correct mistakes please dont hesitate to contact me: Email:leratonthabiseng.moloi@gmail.com
