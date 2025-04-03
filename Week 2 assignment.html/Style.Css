@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+}
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background:-o-linear-gradient(135deg, #9b59b6);
+}
+
+title{
+    max-width: 700px;
+    background-color: aquamarine;
+    font-size: medium;
+}
+
+Registration Form{
+    max-width: 800px;
+    width: 200%;
+    background-size: 100;
+}
+
+background{
+    background-color: blueviolet;
+}
